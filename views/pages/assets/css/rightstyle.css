@@ -1,0 +1,100 @@
+﻿/*=======================================
+    GENERAL STYLES
+==================================================*/
+*{
+margin:0;
+padding:0;
+}
+
+body {
+font-family:'Open Sans', sans-serif;
+font-size:14px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-family:'Open Sans', sans-serif;
+}
+
+h4 {
+padding-top: 25px;
+line-height: 40px;
+padding-bottom: 0;
+font-size: 22px;
+font-weight: 900;
+}
+
+p {
+font-weight:300;
+line-height:30px;
+padding-bottom:15px;
+}
+
+.g-pad-bottom {
+padding-bottom:30px;
+}
+
+.text-center {
+text-align:center;
+}
+
+img{
+padding-bottom: 12px;
+}
+
+ol li{
+margin-left: 15px;
+}
+
+/*=======================================
+    HOME SECTION STYLES
+==================================================*/
+.go-marg {
+margin-top:40px;
+}
+
+#home-sec {
+background: url(../images/hero_image.jpg) no-repeat 50% 50%;
+background-attachment: fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+width: 100%;
+display: block;
+height: auto;
+padding-top:190px;
+min-height:650px;
+color:#fff;
+}
+
+#products-sec {
+padding-top:50px;
+margin-top:50px;
+}
+
+/*=======================================
+    FOOTER STYLES
+==================================================*/
+#footer {
+background-color: #000000;
+color: #999;
+text-align: right;
+border-top: 1px solid #d6d6d6;
+padding: 20px 50px 20px 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

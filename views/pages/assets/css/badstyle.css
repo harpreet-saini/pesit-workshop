@@ -1,0 +1,119 @@
+﻿body {
+    font-family:'Open Sans';
+    font-size:14px;
+}
+
+
+h1 {
+    font-family:'Open Sans';
+}
+
+
+h2 {
+    font-family:'Open Sans';
+}
+
+
+h3 {
+    font-family:'Open Sans';
+}
+
+
+h4 {
+    font-family:'Open Sans';
+    padding-top: 25px;
+    line-height: 40px;
+    padding-bottom: 0px;
+    font-size: 22px;
+    font-weight: 900;
+}
+
+
+h5 {
+    font-family:'Open Sans';
+}
+
+
+h6 {
+    font-family:'Open Sans';
+}
+
+
+p {
+    font-weight:300;
+    line-height:30px;
+    padding-bottom:15px;
+}
+
+
+.g-pad-bottom {
+    padding-bottom:30px;
+}
+
+
+.text-center {
+    text-align:center;
+}
+
+
+.go-marg {
+    margin-top:40px;
+}
+
+.navbar .container div a img{
+    padding-bottom: 12px;
+}
+
+
+#home-sec {
+    background: url(../images/hero_image.jpg) no-repeat 50% 50%;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    display: block;
+    height: auto;
+    padding-top:190px;
+    min-height:650px;
+    color:#fff;
+}
+
+
+#products-sec {
+    padding-top:50px;
+    margin-top:50px;
+}
+
+#products-sec {
+    padding-top:50px;
+    margin-top:50px;
+}
+
+#footer {
+    background-color: #000000;
+    color: #999;
+    text-align: right;
+    border-top: 1px solid #d6d6d6;
+    padding-top: 20px;
+    padding-right:50px;
+    padding-bottom:20px;
+    padding-left:50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
