@@ -13,11 +13,19 @@ app.get('/right', function(request, response) {
   response.sendFile(__dirname + '/views/pages/HTMLRightWay.html');
 });
 
-app.listen(app.get('port'), function() {
-  console.log('Node app is running on port', app.get('port'));
+app.get('/robots', function(request, response) {
+  response.sendFile(__dirname + '/robots.txt');
+});
+
+app.get('/sitemap', function(request, response) {
+  response.sendFile(__dirname + '/sitemap.xml');
 });
 
 
+app.listen(app.get('port'), function() {
+  console.log('Node app is running on port', app.get('port'));
+  console.log(__dirname);
+});
 
 
 
