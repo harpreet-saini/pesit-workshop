@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: https://hsaini-pesit.herokuapp.com/good
+Disallow: https://hsaini-pesit.herokuapp.com/bad
